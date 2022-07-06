@@ -1,0 +1,4 @@
+step 1: create git account
+step 2: generate token
+step 3:clone the repo -git clone [repo-link]
+step 4: add the
